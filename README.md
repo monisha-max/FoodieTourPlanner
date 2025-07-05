@@ -1,3 +1,6 @@
+### Deployed Link
+https://foodietourplanner.streamlit.app/
+
 ### Installation
 
 1. **Clone the repository**
