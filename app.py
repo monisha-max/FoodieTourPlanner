@@ -260,7 +260,7 @@ def main():
                 with cols[i]:
                     img = get_image(dish)
                     if img:
-                        st.image(img, caption=dish, use_column_width=True)
+                        st.image(img, caption=dish, use_container_width=True)
                     else:
                         st.write(dish)
 
