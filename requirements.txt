@@ -1,0 +1,8 @@
+streamlit
+requests
+PyYAML
+julep
+pandas
+geopy
+folium
+reportlab
