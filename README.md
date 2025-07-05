@@ -2,8 +2,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd JulepAI
+   git clone https://github.com/monisha-max/FoodieTourPlanner.git
+   cd FoodieTourPlanner
    ```
 
 2. **Install dependencies**
